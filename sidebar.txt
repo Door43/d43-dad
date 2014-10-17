@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dad:home|Door43 (dad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dad|d43-dad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dad/archive/master.zip|d43-dad.zip]]
+
+**Recent Changes**
+{{changes>ns = dad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dad|Ethnologue data]]
+
